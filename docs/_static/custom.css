@@ -1,0 +1,20 @@
+:root {
+  --pst-color-primary: #8d2c1c;
+  --pst-color-secondary: #1e5f74;
+  --pst-color-accent: #d8a72f;
+  --pst-color-link: #8d2c1c;
+  --pst-color-inline-code: #8d2c1c;
+}
+
+.bd-main .bd-content .bd-article-container {
+  max-width: 58rem;
+}
+
+.announcement {
+  font-weight: 500;
+}
+
+.sd-card {
+  border-radius: 0.75rem;
+}
+
