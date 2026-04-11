@@ -34,6 +34,8 @@ html_title = "RS3 at IEEE eScience 2026"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_show_sourcelink = False
+html_logo = "_static/rs3-logo.png"
+html_favicon = "_static/rs3-logo.png"
 
 html_theme_options = {
     "path_to_docs": "docs",
