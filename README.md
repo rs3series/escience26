@@ -8,6 +8,8 @@ Workshop on Research Software Supply Chain Security (RS3)
 The site uses `sphinx-book-theme`, Markdown content via MyST, and GitHub Pages
 deployment through GitHub Actions.
 
+This is the first in a series of planned events.
+
 ## Local development
 
 Create a virtual environment and install the documentation dependencies:
