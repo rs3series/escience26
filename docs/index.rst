@@ -1,4 +1,5 @@
-# Workshop on Research Software Supply Chain Security (RS3)
+Workshop on Research Software Supply Chain Security (RS3)
+==========================================================
 
 The **Workshop on Research Software Supply Chain Security (RS3)** will bring
 together research software engineers, scientists, infrastructure operators, and
@@ -11,47 +12,43 @@ operational experience reports, position papers, early-stage research, and
 short technical papers that address the security, integrity, trustworthiness,
 and usability of research software ecosystems.
 
-````{grid} 1 1 2 2
-```{grid-item-card} Call for Papers
-:link: call-for-papers
-:link-type: doc
+.. grid:: 1 1 2 2
 
-Topics include research software ecosystems, supply chain threats, provenance,
-security practices, governance, and human factors.
-```
+   .. grid-item-card:: Call for Papers
+      :link: call-for-papers
+      :link-type: doc
 
-```{grid-item-card} Program
-:link: program
-:link-type: doc
+      Topics include research software ecosystems, supply chain threats,
+      provenance, security practices, governance, and human factors.
 
-The workshop is planned as a full-day event with a keynote, paper talks, a
-panel, posters, and breakout sessions.
-```
+   .. grid-item-card:: Program
+      :link: program
+      :link-type: doc
 
-```{grid-item-card} Organizers
-:link: organizers
-:link-type: doc
+      The workshop is planned as a full-day event with a keynote, paper talks,
+      a panel, posters, and breakout sessions.
 
-Meet the organizing team from Purdue University, Loyola University Chicago, and
-the University of Alabama.
-```
+   .. grid-item-card:: Organizers
+      :link: organizers
+      :link-type: doc
 
-```{grid-item-card} Logistics
-:link: logistics
-:link-type: doc
+      Meet the organizing team from Purdue University, Loyola University
+      Chicago, and the University of Alabama.
 
-Location, conference context, publication details, and website status.
-```
+   .. grid-item-card:: Logistics
+      :link: logistics
+      :link-type: doc
 
-```{grid-item-card} Suggested Readings
-:link: suggested-readings
-:link-type: doc
+      Location, conference context, publication details, and website status.
 
-Example papers and orientation readings organized by workshop theme.
-```
-````
+   .. grid-item-card:: Suggested Readings
+      :link: suggested-readings
+      :link-type: doc
 
-## Why This Workshop
+      Example papers and orientation readings organized by workshop theme.
+
+Why This Workshop
+-----------------
 
 Modern scientific discovery depends on layered software ecosystems: research
 code, open source dependencies, packaging tools, execution environments, data
@@ -63,7 +60,8 @@ RS3 creates a forum to discuss those risks without losing sight of the values
 that make scientific software effective: openness, reuse, interoperability, and
 rapid experimentation.
 
-## Scope
+Scope
+-----
 
 The workshop will explore:
 
@@ -76,20 +74,19 @@ The workshop will explore:
   adoption
 - emerging challenges from AI-enabled science and autonomous research agents
 
-## Current Status
+Current Status
+--------------
 
 The site is being prepared from the accepted workshop proposal draft and will be
 expanded as logistics are confirmed. Dates, submission links, and final venue
-details are currently listed as `TBD`.
+details are currently listed as ``TBD``.
 
-```{toctree}
-:maxdepth: 1
-:hidden:
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-call-for-papers
-suggested-readings
-program
-organizers
-logistics
-```
-
+   call-for-papers
+   suggested-readings
+   program
+   organizers
+   logistics

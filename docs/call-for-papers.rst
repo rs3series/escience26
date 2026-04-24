@@ -1,21 +1,25 @@
-# Call for Papers
+Call for Papers
+===============
 
 The Workshop on Research Software Supply Chain Security (RS3) invites
 submissions on the technical, organizational, operational, and human aspects of
 research software supply chains in scientific computing environments.
 
-## Topics of Interest
+Topics of Interest
+------------------
 
 Topics include, but are not limited to:
 
-### Ecosystems and Practices
+Ecosystems and Practices
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 - characterizing research software supply chains in scientific projects,
   laboratories, or institutions
 - case studies of research software development, distribution, and deployment
   practices
 
-### Threats and Consequences
+Threats and Consequences
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 - threat models and security risks affecting scientific software ecosystems,
   including analyses of real-world incidents
@@ -24,7 +28,8 @@ Topics include, but are not limited to:
 - implications of software supply chains for reproducibility and trust in
   computational science
 
-### Technical Mechanisms and Deployment
+Technical Mechanisms and Deployment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - software provenance, transparency, and integrity mechanisms for research
   software
@@ -33,7 +38,8 @@ Topics include, but are not limited to:
 - experiences integrating emerging supply chain security tools such as signing,
   provenance, and attestation into scientific computing environments
 
-### Adoption and Governance
+Adoption and Governance
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - usability, maturity, and security tradeoffs in scientific software
   development and infrastructure
@@ -44,7 +50,8 @@ Topics include, but are not limited to:
 - community practices and governance models for improving research software
   supply chain security
 
-## Submission Types
+Submission Types
+----------------
 
 We plan to accept two categories of submissions:
 
@@ -56,7 +63,8 @@ We plan to accept two categories of submissions:
 All submissions are expected to follow the IEEE eScience workshop formatting
 guidelines.
 
-## Review Process
+Review Process
+--------------
 
 - abstracts will be reviewed by at least one program committee member
 - short papers will be reviewed by at least two program committee members
@@ -68,25 +76,27 @@ experiential contribution, quality of scholarship and presentation, and the
 potential to stimulate discussion across the interdisciplinary eScience
 community.
 
-## Important Dates
+Important Dates
+---------------
 
 The workshop proposal draft does not yet include final dates. These will be
 added once coordinated with the IEEE eScience 2026 workshop chairs.
 
-- Submission deadline: `TBD`
-- Notification date: `TBD`
-- Camera-ready deadline: `TBD`
-- Workshop date: `TBD`
+- Submission deadline: ``TBD``
+- Notification date: ``TBD``
+- Camera-ready deadline: ``TBD``
+- Workshop date: ``TBD``
 
-## Submission Link
+Submission Link
+---------------
 
 The submission system link will be posted here after the workshop is accepted
 and the conference infrastructure is configured.
 
-- Submission site: `TBD`
+- Submission site: ``TBD``
 
-## Suggested Readings
+Suggested Readings
+------------------
 
-Prospective authors may find our [Suggested Readings](suggested-readings) page
-helpful for understanding the scope and themes of the workshop.
-
+Prospective authors may find our :doc:`Suggested Readings <suggested-readings>`
+page helpful for understanding the scope and themes of the workshop.
