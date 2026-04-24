@@ -85,3 +85,8 @@ and the conference infrastructure is configured.
 
 - Submission site: `TBD`
 
+## Suggested Readings
+
+Prospective authors may find our [Suggested Readings](suggested-readings) page
+helpful for understanding the scope and themes of the workshop.
+

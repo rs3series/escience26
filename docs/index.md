@@ -42,6 +42,13 @@ the University of Alabama.
 
 Location, conference context, publication details, and website status.
 ```
+
+```{grid-item-card} Suggested Readings
+:link: suggested-readings
+:link-type: doc
+
+Example papers and orientation readings organized by workshop theme.
+```
 ````
 
 ## Why This Workshop
@@ -80,6 +87,7 @@ details are currently listed as `TBD`.
 :hidden:
 
 call-for-papers
+suggested-readings
 program
 organizers
 logistics
