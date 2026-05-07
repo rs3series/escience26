@@ -4,7 +4,7 @@ Logistics
 Conference Context
 ------------------
 
-RS3 is being organized as a workshop co-located with **IEEE eScience 2026**.
+RS3 is being organized as a workshop co-located with `IEEE eScience 2026 <https://www.escience-conference.org/2026/>`_.
 This site will be updated as conference-level logistics become available.
 
 Venue

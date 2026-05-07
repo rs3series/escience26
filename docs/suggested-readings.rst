@@ -50,3 +50,6 @@ governance issues that shape whether security measures are adopted in practice
 fits well here. This includes institutional and policy frameworks relevant to
 research security, such as disclosure and accountability requirements associated
 with NSPM-33 and related NSF guidance.
+
+- `NSPM-33 <https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-united-states-government-supported-research-development-national-security-policy/>`_, Presidential Memorandum on US Government-Supported R&D National Security Policy.
+- `NSF NSPM-33 Implementation Guidance <https://www.nsf.gov/policies/nspm-33>`_, NSF's policy page with disclosure requirements and implementation guidance.
