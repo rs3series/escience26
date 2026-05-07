@@ -79,12 +79,9 @@ community.
 Important Dates
 ---------------
 
-The workshop proposal draft does not yet include final dates. These will be
-added once coordinated with the IEEE eScience 2026 workshop chairs.
-
-- Submission deadline: ``TBD``
-- Notification date: ``TBD``
-- Camera-ready deadline: ``TBD``
+- Submission deadline: July 6, 2026
+- Notification date: July 24, 2026
+- Camera-ready deadline: August 6, 2026
 - Workshop date: ``TBD``
 
 Submission Link
