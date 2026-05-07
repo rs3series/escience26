@@ -35,6 +35,12 @@ and usability of research software ecosystems.
       Meet the organizing team from Purdue University, Loyola University
       Chicago, and the University of Alabama.
 
+   .. grid-item-card:: Program Committee
+      :link: program-committee
+      :link-type: doc
+
+      Reviewers shaping the workshop program.
+
    .. grid-item-card:: Logistics
       :link: logistics
       :link-type: doc
@@ -89,4 +95,5 @@ details are currently listed as ``TBD``.
    suggested-readings
    program
    organizers
+   program-committee
    logistics
