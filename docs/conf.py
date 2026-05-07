@@ -44,8 +44,5 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": False,
     "show_navbar_depth": 2,
-    "announcement": (
-        "This workshop has been accepted at IEEE eScience 2026 but is not "
-        "official yet."
-    ),
+    # "announcement": "The Call for Papers is now open! Submit at <URL>.",
 }

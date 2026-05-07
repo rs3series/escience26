@@ -80,12 +80,6 @@ The workshop will explore:
   adoption
 - emerging challenges from AI-enabled science and autonomous research agents
 
-Current Status
---------------
-
-The site is being prepared from the accepted workshop proposal draft and will be
-expanded as logistics are confirmed. Dates, submission links, and final venue
-details are currently listed as ``TBD``.
 
 .. toctree::
    :maxdepth: 1

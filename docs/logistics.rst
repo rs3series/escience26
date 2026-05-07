@@ -22,14 +22,3 @@ Proceedings and Materials
 - Workshop materials and the post-workshop synthesis report will be published on
   this site.
 
-Website Roadmap
----------------
-
-The current version of the site is the initial public scaffold. Expected future
-updates include:
-
-- final dates and registration links
-- submission instructions and conference submission portal
-- accepted papers and schedule details
-- keynote and panel announcements
-- slides, posters, and post-workshop materials
