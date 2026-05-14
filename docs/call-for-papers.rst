@@ -87,10 +87,7 @@ Important Dates
 Submission Link
 ---------------
 
-The submission system link will be posted here after the workshop is accepted
-and the conference infrastructure is configured.
-
-- Submission site: ``TBD``
+- Submission site: `EasyChair <https://easychair.org/conferences2/submissions?a=36473981>`__
 
 Suggested Readings
 ------------------
